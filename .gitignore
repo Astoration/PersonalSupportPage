@@ -65,3 +65,10 @@ typings/
 
 # Serverless directories
 .serverless
+
+# Babel Builds
+lib/
+
+# config file
+
+config/index.js
